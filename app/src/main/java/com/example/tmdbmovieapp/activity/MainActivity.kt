@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
         viewModel= ViewModelProvider(this)[ApiViewModel::class.java]
 
         var progressDialog= ProgressDialog(this)
-        progressDialog.setMessage("loading please wait...")
+        progressDialog.setMessage("loading plz wait...")
         progressDialog.setCancelable(false)
 
         viewModel.mvloding.observe(this, Observer {
