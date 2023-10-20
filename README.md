@@ -38,6 +38,8 @@ You'll be greeted with a list of trending movies.
 Click on a movie to view its details, including language, rating, description, and release year.
 
 # Screenshots
-Include screenshots of the application to provide users with a visual representation of the user interface, including movie posters and details.
-Contributing
-If you'd like to contribute to this project, you can do so by submitting issues or pull requests on the GitHub repository.
+![Screenshot (43)](https://github.com/AnshulThiraniya/movie_app/assets/70026554/1ca3b509-3b67-48ba-b749-4d6e58cc5c6a)
+![Screenshot (44)](https://github.com/AnshulThiraniya/movie_app/assets/70026554/911e4925-7854-43b1-8dcf-808739bbfc1a)
+![Screenshot (45)](https://github.com/AnshulThiraniya/movie_app/assets/70026554/be93e6d6-bac8-4518-b6c4-5f2c41833df5)
+
+
